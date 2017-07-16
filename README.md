@@ -13,10 +13,12 @@ At Epicodus, we practice pair programming on Monday-Thursday. On Fridays, we wor
 | Week  | Project       | Description                  | Repository   |
 | ----- | ------------- | ---------------------------- | ------------ |
 | 1     | **Better Doctor API**     | This website connects to the [BetterDoctor API](https://developer.betterdoctor.com/) to allow users to find doctors in the Portland, OR area after typing in an ailment or symptom (e.g., headache). Built with HTML, Sass, JavaScript, jQuery, npm, Bower, gulp, and Materialize. | [Link](https://github.com/avocadobravado/javascript-week1) |
-| 2     |      |  |  |
-| 3  | |  |   |
+| 2     | **Zoo Application**     | Web app built with Angular 2 and TypeScript that allows zookeepers to edit, add, and delete animal information. | [Link](https://github.com/avocadobravado/javascript-week2) |
+| 3  | | **Club Manager** | Web application built with Angular that allows administrators to edit, add, and remove members of a club and save that information to a server (Firebase). [Link](https://github.com/avocadobravado/javascript-week3)  |
 | 4     | |  |  |
 | 5 |  |   |
+
+---
 
 ### CSS
 
